@@ -9,6 +9,7 @@
   "author": "Sergio DAngelo",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "normalize": "^0.3.1"
   }
 }
