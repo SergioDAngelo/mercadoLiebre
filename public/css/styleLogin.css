@@ -1,0 +1,41 @@
+/*//////////////////////////////////////////HEADER//////////////////////////////////////////////////////*/
+/*ESTILOS IMPORTADOS DEL HOME*/
+.banner{
+    display: none;
+}
+/*//////////////////////////////////////////MAIN//////////////////////////////////////////////////////*/
+.login-form{
+    padding: 20px 15px
+}
+.info-login{
+    margin-bottom: 15px;
+}
+.info-login label{
+   margin-bottom: 5px;
+   font-style: italic; 
+   display: flex;
+}
+.box-info{
+    width: 100%;
+    padding: 8px 8px;
+}
+.button{
+    background-color: #03264C;
+    border: none;
+    font-size: 20px;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.button:hover{
+        color: #ebebeb;
+        background-color:#0022AA ;
+        transition: 
+        background-color, 0.5s,
+        color, 0.5s;
+}
+
+/*/////////////////////////////////////////FOOTER/////////////////////////////////////////////////////*/
+/*ESTILOS IMPORTADOS DEL HOME*/
+/*/////////////////////////////////////////MEDIA QUERIES////////////////////////////////////*/
+/*ESTILOS IMPORTADOS DEL HOME*/

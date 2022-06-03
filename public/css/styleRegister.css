@@ -1,0 +1,60 @@
+/*//////////////////////////////////////////HEADER//////////////////////////////////////////////////////*/
+/*ESTILOS IMPORTADOS DEL HOME*/
+/*//////////////////////////////////////////MAIN//////////////////////////////////////////////////////*/
+/* html{
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+*, *::after {
+    box-sizing: inherit;
+} */
+a{
+    text-decoration: none;
+    font-style: none;
+}
+.banner{
+    display: none;
+}
+.banner{
+    display: none;
+}
+/*//////////////////////////////////////////MAIN//////////////////////////////////////////////////////*/
+.login-form{
+    padding: 20px 15px
+}
+.info-login{
+    margin-bottom: 15px;
+}
+.info-login label{
+   margin-bottom: 5px;
+   font-style: italic; 
+   display: block;
+}
+.box-info{
+    width: 100%;
+    padding: 8px 8px;
+}
+.button{
+    background-color: #022e5e;
+    border: none;
+    font-size: 20px;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+
+}
+/*/////////////////////////////////////////FOOTER/////////////////////////////////////////////////////*/
+/*ESTILOS IMPORTADOS DEL HOME*/
+/*/////////////////////////////////////////MEDIA QUERIES////////////////////////////////////*/
+/*ESTILOS IMPORTADOS DEL HOME*/
+@media (max-width:780px){
+    .categoriaIntereses{
+        display: none;
+    }   
+
+    .categoriaIntereses2{
+        display:block
+}
+}
